@@ -1,0 +1,15 @@
+.sidebar {
+  border: 2px solid turquoise;
+  width: 30%;
+    float: inline-end;
+    padding: 6px;
+    margin: 20px;
+    background-color: turquoise;
+  }
+  img{
+    float:inline-start;
+    border: 20px transparent;
+    padding: 28px;
+    margin: 12px;
+
+  }
